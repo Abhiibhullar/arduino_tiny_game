@@ -1,5 +1,5 @@
 ## Arduino Tiny Game
-A simple flappy bird game for arduino with ST7789 display and button.
+A simple flappy bird game for arduino with ST7789 display and a single button.
 
 ## Connections
 ST7789 To Arduino Nano.
