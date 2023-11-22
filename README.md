@@ -24,7 +24,7 @@ ST7789 To Arduino Nano.
 Button is connected to D2 in Arduino NANO. *[Follow this tutorial](https://docs.arduino.cc/built-in-examples/digital/Button)*
 
 ## Libraries
-[Adafruit ST77355 and ST7789 Library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_ST7735_and_ST7789_Library-1.10.3.zip)
+[Adafruit ST7735 and ST7789 Library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_ST7735_and_ST7789_Library-1.10.3.zip)
 
 ## Contribution 
 This games has many flaws, if you want to contribute open an issue, Thanks.
