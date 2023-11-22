@@ -1,0 +1,5 @@
+{
+    "sketch": "flappy_bird.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
