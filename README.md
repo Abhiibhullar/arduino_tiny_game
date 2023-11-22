@@ -4,7 +4,7 @@ A simple flappy bird game for arduino with ST7789 display and a single button.
 ## Table of contents
  * [Connections](#connections)
  * [Libraries](#libraries)
- * [Uploading](#installation)
+ * [Uploading](#uploading)
  * [Contribution](#contribution)
 
 ## Connections
