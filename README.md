@@ -4,15 +4,8 @@ A simple flappy bird game for arduino with ST7789 display and a single button.
 ## Table of contents
  * [Connections](#connections)
  * [Libraries](#libraries)
+ * [Uploading](#installation)
  * [Contribution](#contribution)
-
-## Installation
- * Load the sketch into Arduino IDE or Visual Studio Code or any IDE that supports Arduino.
- * Select your board.
- * Connect the board to pc using usb.
- * Select the COM PORT
- * Upload the Sketch to board
- * Enjoy.
 
 ## Connections
 ST7789 To Arduino Nano.
@@ -33,6 +26,14 @@ Button is connected to D2 in Arduino NANO. *[Follow this tutorial](https://docs.
 
 ## Libraries
 [Adafruit ST7735 and ST7789 Library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_ST7735_and_ST7789_Library-1.10.3.zip)
+
+## Uploading
+ * Load the sketch into Arduino IDE or Visual Studio Code or any IDE that supports Arduino.
+ * Select your board.
+ * Connect the board to pc using usb.
+ * Select the COM PORT
+ * Upload the Sketch to board
+ * Enjoy.
 
 ## Contribution 
 This games has many flaws, if you want to contribute open an issue, Thanks.
