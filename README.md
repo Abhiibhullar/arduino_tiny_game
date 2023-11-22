@@ -12,7 +12,7 @@ ST7789 To Arduino Nano.
 |RST | D9 | 
 |DC | D8 |
 
-*(CS, RST, DC) can be updated in code.*
+*(CS, RST, DC) can be updated in code. And other pins are specific to board you are using.*
 
 Button is connected to D2 in Arduino NANO. *[Follow this tutorial](https://docs.arduino.cc/built-in-examples/digital/Button)*
 
