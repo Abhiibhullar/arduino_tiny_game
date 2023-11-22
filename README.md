@@ -16,6 +16,8 @@ ST7789 To Arduino Nano.
 |CS | D10 | 
 |RST | D9 | 
 |DC | D8 |
+|VCC | 5V |
+|GND | GND |
 
 *(CS, RST, DC) can be updated in code. And other pins are specific to board you are using.*
 
