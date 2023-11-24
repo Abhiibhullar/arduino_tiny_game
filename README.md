@@ -27,7 +27,7 @@ Button is connected to D2 in Arduino NANO. *[Follow this tutorial](https://docs.
 ## Libraries
 [Adafruit ST7735 and ST7789 Library](https://downloads.arduino.cc/libraries/github.com/adafruit/Adafruit_ST7735_and_ST7789_Library-1.10.3.zip)
 
-[Guide to installing libraries.](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
+[Guide to installing libraries.](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries#importing-a-zip-library)
 
 ## Uploading
  * Load the sketch into Arduino IDE or Visual Studio Code or any IDE that supports Arduino.
